@@ -1,1 +1,1 @@
-yet another one
+script that lists environment variables
