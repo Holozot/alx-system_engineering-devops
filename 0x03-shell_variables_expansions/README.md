@@ -1,1 +1,1 @@
-lists all local and environmental variables
+Creating a new local variable
