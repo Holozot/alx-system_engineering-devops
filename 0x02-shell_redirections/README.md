@@ -1,1 +1,1 @@
-script that displays the third line of the file
+Shell script creating file named exactly that
