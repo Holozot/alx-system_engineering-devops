@@ -1,1 +1,1 @@
-script that changes the working dir to the previous one
+script that lists all files (even ones with names beginning with a period character
